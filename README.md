@@ -1,16 +1,30 @@
-## Hi there 👋
+                                                                                          # Olá, sou a Pamela 🧚🏾‍♀️
 
-<!--
-**testedo23/testedo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+                                                                        「Sonho com o dia que a tecnologia será usada somente para o bem」  
+
+
+
+
+
+[Readme in english](https://github.com/o-cafe-e-o-elefante/o-cafe-e-o-elefante/blob/main/README.md) ㅤ♡ㅤ [Readme en español](https://github.com/o-cafe-e-o-elefante/o-cafe-e-o-elefante/blob/main/README.md)
+
+🦩 **Residente de Tecnologia da Informação e Comunicação**  
+🩷 **Pós-graduanda em Engenharia de Software**  
+🩰 **Tecnóloga em Análise e Desenvolvimento de Sistemas**  
+🧠 **Aprendendo:** `Typescript` `React native` `Angular` `Python`
+
+## 🫧 Tecnologias e Ferramentas
+
+- Item 1
+- Item 2
+- Item 3
+
+## 🪱 Estatísticas
+
+- Item 1
+- Item 2
+- Item 3
