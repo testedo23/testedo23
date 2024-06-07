@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    「 Sonho com o dia que a tecnologia será usada somente para o bem 」
+    「 Vivo e respiro o mundo do open source; para mim, a verdadeira fonte do conhecimento reside nas ferramentas gratuitas que impulsionam o progresso. 」
     <br>
     <br>
   </samp>
