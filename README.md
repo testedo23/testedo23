@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    「 Vivo e respiro o mundo do open source; para mim, a verdadeira fonte do conhecimento reside nas ferramentas gratuitas que impulsionam o progresso. 」
+    「 Vivo e respiro o mundo do open source; para mim, a verdadeira fonte do conhecimento reside nas ferramentas gratuitas 」
     <br>
     <br>
   </samp>
