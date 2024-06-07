@@ -39,8 +39,8 @@
 ## 🪱 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23ant&show_icons=true&bg_color=ffffff&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ant&layout=compact&bg_color=ffffff&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=23ant&show_icons=true&bg_color=ffffff&title_color=00C853&text_color=00C853&icon_color=00C853&border_color=00C853" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ant&layout=compact&bg_color=ffffff&title_color=00C853&text_color=00C853&icon_color=00C853&border_color=00C853" alt="Linguagens mais usadas" />
 </p>
 
 </div>
